@@ -1,3 +1,4 @@
+//Theodore Storl-Desmond
 void setup() {
   pinMode(8, OUTPUT);
   pinMode(12, OUTPUT);
