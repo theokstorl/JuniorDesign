@@ -1,4 +1,5 @@
 //Theodore Storl-Desmond
+//Cameron Hagg
 void setup() {
   pinMode(8, OUTPUT);
   pinMode(12, OUTPUT);
