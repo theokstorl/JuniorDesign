@@ -1,4 +1,5 @@
 //Theodore Storl-Desmond
+//Hannah Srock
 void setup() {
   pinMode(8, OUTPUT);
   pinMode(12, OUTPUT);
